@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="https://media.licdn.com/dms/image/D5612AQEZ2Cd1DmafpQ/article-cover_image-shrink_600_2000/0/1699194763604?e=2147483647&v=beta&t=QscK67QY6r974hvJr6zTTJRMl0_LCZd4YjfQ6OVs5Ww">
+<img align="right" alt="Coding" width="100%" height="280px" src="https://media.licdn.com/dms/image/D5612AQEZ2Cd1DmafpQ/article-cover_image-shrink_600_2000/0/1699194763604?e=2147483647&v=beta&t=QscK67QY6r974hvJr6zTTJRMl0_LCZd4YjfQ6OVs5Ww">
 <h1 align="center">Hi 👋, I'm Gourinandhana E S</h1>
 <h3 align="center">An Aspiring full stack developer and passionate about creating Responsive and Beautiful websites with React and Bootstrap.</h3>
 <img align="right" alt="Coding" width="400px" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
