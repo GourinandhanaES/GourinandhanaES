@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourinandhanaes&label=Profile%20views&color=0e75b6&style=flat" alt="gourinandhanaes" /> </p>
 
-- 🌱 I’m currently learning **MEARN Stack**
+- 🌱 I’m a **MERN Stack** Developer
 
-- 💬 Ask me about **HTML, CSS, and JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript and MERN**
 
 - 📫 How to reach me **gourinandhana028@gmail.com**
 
