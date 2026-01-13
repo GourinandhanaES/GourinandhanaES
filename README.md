@@ -17,7 +17,7 @@ I build clean, responsive, and user-friendly web applications using modern front
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
 -  B.Tech in Computer Science (2024)
 -  Currently working with **React,Next MERN Stack**
