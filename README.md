@@ -11,7 +11,7 @@ I build clean, responsive, and user-friendly web applications using modern front
 
 <p align="center">
   <a href="https://my-portfolio-nine-eosin-54.vercel.app/" target="_blank"><b>Portfolio</b></a> •
-  <a href="https://linkedin.com/in/gourinandhana-e-s" target="_blank"><b>LinkedIn</b></a> •
+  <a href="https://linkedin.com/in/gourinandhana-e-s-353991251/" target="_blank"><b>LinkedIn</b></a> •
   <a href="mailto:gourinandhana028@gmail.com"><b>Email</b></a>
 </p>
 
